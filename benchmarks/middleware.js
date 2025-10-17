@@ -3,6 +3,7 @@ var express = require('..');
 var app = express();
 
 // number of middleware
+// 2 middlewares
 
 var n = parseInt(process.env.MW || '1', 10);
 console.log('  %s middleware', n);
