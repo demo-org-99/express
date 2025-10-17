@@ -64,7 +64,7 @@ npm install express
 ```
 
 Follow [our installing guide](https://expressjs.com/en/starter/installing.html)
-for more information.
+for more information. 
 
 ## Features
 
@@ -87,7 +87,7 @@ for more information.
 ## Quick Start
 
   The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
-
+  Install the file and start a server and put envs.
   Install the executable. The executable's major version will match Express's:
 
 ```bash
